@@ -1,5 +1,5 @@
+create database empleado;
 use empleado;
-show create table empleado;
 
 CREATE TABLE empleado (
   id int not null auto_increment,
